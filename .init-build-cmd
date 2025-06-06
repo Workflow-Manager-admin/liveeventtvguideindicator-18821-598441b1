@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/liveeventtvguideindicator-18821-598441b1/live_event_tv_guide_indicator"
+}
